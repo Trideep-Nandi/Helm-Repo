@@ -3,12 +3,12 @@ entries:
   nodejs-application:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2025-03-21T17:21:35.560496+05:30"
+    created: "2025-03-21T19:06:22.683423+05:30"
     description: A Helm chart for Kubernetes
-    digest: 5c44c0278fba36236c61d04c60b0fa7f27d521a10111bdab492e2cd177c61c88
+    digest: 55f8ca2baaeac92faa517081bde3416a8a016d2e6d3a2236bb84fdf1bfa18af5
     name: nodejs-application
     type: application
     urls:
     - https://trideep-nandi.github.io/Helm-Repo/nodejs-application-0.1.0.tgz
     version: 0.1.0
-generated: "2025-03-21T17:21:35.559423+05:30"
+generated: "2025-03-21T19:06:22.68265+05:30"
